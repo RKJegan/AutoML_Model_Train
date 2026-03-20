@@ -57,7 +57,6 @@ Ml_project/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 │
 └── src/
     ├── preprocessing.py
